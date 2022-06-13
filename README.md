@@ -13,6 +13,6 @@
 
 <p align="justify">We'll also pass strings with special symbols, such as **2A3*3a2**, **2A3 3a2**, and **2_A3*3#A2**.</p>
 
-<h2>Solution: palindrome.js</h2>
+<h2>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/palindrome.js">palindrome.js</a></h2>
 
 <hr>
