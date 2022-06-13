@@ -1,7 +1,6 @@
 <h1>FreeCodeCamp</h1>
 <h2>JavaScript Algorithms and Data Structures Projects</h2>
-
-<h2>Palindrome Checker</h2>
+<h3>Palindrome Checker</h3>
 
 <p align="justify">Return <b>true</b> if the given string is a palindrome. Otherwise, return <b>false</b>.</p>
 
