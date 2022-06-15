@@ -81,4 +81,20 @@
 <p align="justify">All roman numerals answers should be provided in upper-case.</p>
 
 <b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/convertToRoman.js">convertToRoman.js</a></b>
+
+<hr>
+
+
+<h3>Caesars Cipher</h3>
+
+<p align="justify">One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.</p>
+
+<p align="justify">A common modern use is the ROT13 cipher, where the values of the letters are shifted by 13 places. Thus A ↔ N, B ↔ O and so on.</p>
+
+<p align="justify">Write a function which takes a ROT13 encoded string as input and returns a decoded string.</p>
+
+<p align="justify">All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.</p>
+
+<b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/rot13">rot13s</a></b>
+
 <hr>
