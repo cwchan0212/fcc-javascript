@@ -95,6 +95,6 @@
 
 <p align="justify">All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.</p>
 
-<b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/rot13">rot13s</a></b>
+<b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/rot13.js">rot13.js</a></b>
 
 <hr>
