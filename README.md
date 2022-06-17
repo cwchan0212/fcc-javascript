@@ -115,3 +115,21 @@
 <p align="justify">For this challenge you will be presented with a string such as 800-692-7753 or 8oo-six427676;laskdjf. Your job is to validate or reject the US phone number based on any combination of the formats provided above. The area code is required. If the country code is provided, you must confirm that the country code is 1. Return true if the string is a valid US phone number; otherwise return false.</p>
 
 <b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/telephoneCheck.js">telephoneCheck.js</a></b>
+
+
+<h3>Cash Register</h3>
+
+<p align="justify">Design a cash register drawer function checkCashRegister() that accepts purchase price as the first argument (price), payment as the second argument (cash), and cash-in-drawer (cid) as the third argument.</p>
+
+<p align="justify">cid is a 2D array listing available currency.</p>
+
+<p align="justify">The checkCashRegister() function should always return an object with a status key and a change key.</p>
+
+<p align="justify">Return {status: "INSUFFICIENT_FUNDS", change: []} if cash-in-drawer is less than the change due, or if you cannot return the exact change.</p>
+
+<p align="justify">Return {status: "CLOSED", change: [...]} with cash-in-drawer as the value for the key change if it is equal to the change due.</p>
+
+<p align="justify">Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.</p>
+
+<b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/checkCashRegister.js">checkCashRegister.js</a></b>
+
