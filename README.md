@@ -116,6 +116,7 @@
 
 <b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/telephoneCheck.js">telephoneCheck.js</a></b>
 
+<hr>
 
 <h3>Cash Register</h3>
 
