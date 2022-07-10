@@ -1,4 +1,4 @@
-<h1>FreeCodeCamp</h1>
+<h1>[FreeCodeCamp]</h1>
 <h2>JavaScript Algorithms and Data Structures Projects</h2>
 <h3>Palindrome Checker</h3>
 
@@ -133,4 +133,3 @@
 <p align="justify">Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins and bills, sorted in highest to lowest order, as the value of the change key.</p>
 
 <b>Solution: <a href="https://github.com/cwchan0212/javascript/blob/main/checkCashRegister.js">checkCashRegister.js</a></b>
-
