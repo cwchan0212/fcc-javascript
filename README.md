@@ -1,4 +1,4 @@
-<h1>[FreeCodeCamp]< JavaScript Algorithms and Data Structures Projects</h1>
+<h1>[FreeCodeCamp] JavaScript Algorithms and Data Structures Projects</h1>
 <h2>Palindrome Checker</h2>
 
 <p align="justify">Return <b>true</b> if the given string is a palindrome. Otherwise, return <b>false</b>.</p>
